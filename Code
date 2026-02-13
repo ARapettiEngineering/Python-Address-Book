@@ -1,0 +1,161 @@
+#Andrews Information
+andrewname="Andrew Rapetti"
+andrewage=16
+andrewgrade=11
+andrewdl="No"
+andrewemail="278430@burlcoschools.org"
+
+#Calebs Information
+calebname="Caleb Wall"
+calebage=16
+calebgrade=11
+calebdl="No"
+calebemail="278472@burlcoschools.org"
+
+#Chriss Information
+chrisname="Chris Davis"
+chrisage=16
+chrisgrade=11
+chrisdl="No"
+chrisemail="269329@burlcoschools.org"
+
+#Martinss Information
+martinsname="Martins Jr Agbakwu"
+martinsage=16
+martinsgrade=11
+martinsdl="No"
+martinsemail="278827@burlcoschools.org"
+
+#Wess Information
+wesname="Wes Spaugh"
+wesage=16
+wesgrade=11
+wesdl="No"
+wesemail="279089@burlcoschools.org"
+
+#Alexs Information
+alexname="Alexander Dowling"
+alexage=16
+alexgrade=11
+alexdl="No"
+alexemail="279235@burlcoschools.org"
+
+#Dylans Informtaion
+guzname="Dylan Guzman"
+guzage=16
+guzgrade=11
+guzdl="No"
+guzemail="278509@burlcoschools.org"
+
+#Tylers Information
+tylername="Tyler Keane"
+tylerage=17
+tylergrade=11
+tylerdl="No"
+tyleremail="269360@burlcoschools.org"
+
+#Abrahams Information
+abename="Abraham Esparra"
+abeage=16
+abegrade=11
+abedl="No"
+abeemail="269360@burlcoschools.org"
+
+#Brandons Information
+brandonname="Brandon Cox"
+brandonage=17
+brandongrade=11
+brandondl="Yes"
+brandonemail="278583@burlcoschools.org"
+
+line="------------------------------------------------------------"#Line in variable to use for print command
+
+#prints Andrews name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", andrewname)
+print("Age:", andrewage)
+print("Grade:", andrewgrade)
+print("Drivers License:", andrewdl)
+print("Email:", andrewemail)
+print(line)#Prints a line
+
+#prints Calebs name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", calebname)
+print("Age:", calebage)
+print("Grade:", calebgrade)
+print("Drivers License:", calebdl)
+print("Email:", calebemail)
+print(line)#Prints a line
+
+#prints Chriss name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", chrisname)
+print("Age:", chrisage)
+print("Grade:", chrisgrade)
+print("Drivers License:", chrisdl)
+print("Email:", chrisemail)
+print(line)#Prints a line
+
+#prints Martins name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", martinsname)
+print("Age:", martinsage)
+print("Grade:", martinsgrade)
+print("Drivers License:", martinsdl)
+print("Email:", martinsemail)
+print(line)#Prints a line
+
+#prints Wess name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", wesname)
+print("Age:", wesage)
+print("Grade:", wesgrade)
+print("Drivers License:", wesdl)
+print("Email:", wesemail)
+print(line)#Prints a line
+
+#prints Alexs name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", alexname)
+print("Age:", alexage)
+print("Grade:", alexgrade)
+print("Drivers License:", alexdl)
+print("Email:", alexemail)
+print(line)#Prints a line
+
+#prints Dylans name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", guzname)
+print("Age:", guzage)
+print("Grade:", guzgrade)
+print("Drivers License:", guzdl)
+print("Email:", guzemail)
+print(line)#Prints a line
+
+#prints Tylers name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", tylername)
+print("Age:", tylerage)
+print("Grade:", tylergrade)
+print("Drivers License:", tylerdl)
+print("Email:", tyleremail)
+print(line)#Prints a line
+
+#prints Abrahams name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", abename)
+print("Age:", abeage)
+print("Grade:", abegrade)
+print("Drivers License:", abedl)
+print("Email:", abeemail)
+print(line)#Prints a line
+
+#prints Brandons name, age, grade, drivers liscense, and email
+print(line)#Prints a line
+print("Name:", brandonname)
+print("Age:", brandonage)
+print("Grade:", brandongrade)
+print("Drivers License:", brandondl)
+print("Email:", brandonemail)
+print(line)#Prints a line
